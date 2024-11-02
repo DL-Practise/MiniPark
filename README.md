@@ -1,6 +1,6 @@
 # MiniPark
 
-MiniPark by AI手工星
+MiniPark by AI手工星（微信：15158106211，添加微信，加入迷你停车场交流群）
 
 
 # 项目简介
@@ -8,7 +8,7 @@ MiniPark by AI手工星
 ![Alt text](images/img1.png)
 
 
-#目录结构
+# 目录结构
 * CAD图纸：外观设计的图纸
 * 硬件连接图：树莓派与usb摄像头，舵机的硬件连接图
 * 树莓派代码：在树莓派上实现停车收费的全部源代码
